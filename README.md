@@ -35,4 +35,13 @@ Data was ingested into a SQL database with the provided .py script, and explored
 
 In addition to the live presentation (13 October 2021, 6:00pm MST) and slides, this project will be continuously available on [my GitHub](https://github.com/medrich/MetisEDA). With the conclusion of this course, I will be revisiting this project when I have more proficiency with the tools at hand, and more time in which to use them.
 
+Included below are the main visual takeaways as of 12 October 2021:
+
+![MTA Stations of NYC](eda_project/figures/station_map.png)
+
+![The 20 Busiest Stations (On Average)](eda_project/figures/busiest_stations.png)
+
+![Busy Station Entries Counted by Weekday Visits](eda_project/figures/station_traffic_by_weekday.png)
+
+
 
